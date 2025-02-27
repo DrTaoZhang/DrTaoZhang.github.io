@@ -7,7 +7,7 @@ With interdisciplinary expertise spanning data analytics, physics-aware modeling
 Dr. Zhang's technical contributions have been implemented in oilfield exploration systems and precision manufacturing processes, demonstrating strong cross-domain adaptability. He maintains active academic engagement as a reviewer for IEEE Access, International Journal of Industrial Engineering, and multiple physics/mathematics conferences. His research philosophy emphasizes the integration of domain knowledge with data-driven techniques, particularly in developing explainable AI architectures for industrial scenarios requiring high robustness and interpretability. Current investigations focus on knowledge graph-enhanced RAG systems and physics-informed neural operators for multi-scale industrial data analysis.
 
 #### Email
-dr_taozhang[at]163.com
+dr_taozhang@163.com
 
 #### Education
 D.E., Computer Science and Technology, University of Science and Technology, Beijing, China 2015—2017, 2017-2024.\
