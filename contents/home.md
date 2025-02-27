@@ -1,16 +1,20 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![TaoZhang1018](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Dr. Zhang is a data mining engineer at CNPC Kunlun Digital Intelligence Technology Co., Ltd., specializing in AI-driven energy exploration and industrial informatics. Currently engaged in the research project "Data-Knowledge Dual-Driven Logging Re-evaluation Model for Mature Wells," he focuses on developing intelligent solutions for micro-layer delineation, reservoir classification, and large-scale logging model optimization. His recent work extends to RAG systems for large language models(LLM), emphasizing knowledge retrieval and multimodal data integration.
+With interdisciplinary expertise spanning data analytics, physics-aware modeling, and industrial system optimization, Dr. Zhang's research addresses critical challenges in precision manufacturing and industrial pattern recognition. His work on multi-source information fusion for spindle accuracy monitoring (vibration-temperature-current data integration) has established correlation models between heterogeneous signal features and geometric precision degradation, enabling real-time compensation strategies to enhance machining accuracy and component lifespan. In tensor decomposition methodologies, he developed hybrid regularization frameworks combining sparse/low-rank constraints and physical prior knowledge, achieving 30-45% noise suppression improvement in 3D printing monitoring and nanoparticle detection compared to conventional approaches.
+Dr. Zhang's technical contributions have been implemented in oilfield exploration systems and precision manufacturing processes, demonstrating strong cross-domain adaptability. He maintains active academic engagement as a reviewer for IEEE Access, International Journal of Industrial Engineering, and multiple physics/mathematics conferences. His research philosophy emphasizes the integration of domain knowledge with data-driven techniques, particularly in developing explainable AI architectures for industrial scenarios requiring high robustness and interpretability. Current investigations focus on knowledge graph-enhanced RAG systems and physics-informed neural operators for multi-scale industrial data analysis.
 
 #### Email
-sli[at]cumt.edu.cn
+dr_taozhang[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+D.E., Computer Science and Technology, University of Science and Technology, Beijing, China 2015—2017, 2017-2024.\
+M.E., Systems and Industrial Engineering, University of Arizona, Arizona, USA, 2019-2021.\
+M.E., Computer Science and Technology, University of Science and Technology, Beijing, China 2015—2017.\
+B.E., Measurement and Control Technology and Instrument, Shenyang University of Technology, Liaoning, China 2011—2015.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, Data Mining, Anormaly Detection, Tensor Decomposition, Data Clustering Analysis
 

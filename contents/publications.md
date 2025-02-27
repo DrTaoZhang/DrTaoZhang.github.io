@@ -1,12 +1,13 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>Zhang, T.<strong>, Liu, J., Ai, Y., & Zhang, W. (2023). Multi-layer additive tensor decomposition of infrared video for titanium alloy tensile testing. Engineering Applications of Artificial Intelligence, 124, 106552.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Zhang, Y., <strong>Zhang, T.<strong>, Liu, J., Kang, W., Liang, R., & Potter, B. G. (2024). Profile extraction and defect detection for stereolithography curing process based on multi-regularized tensor decomposition. Journal of Manufacturing Systems, 74, 100-111.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Zhang, T.<strong>, Ai, Y., & Zhang, W. (2023). Hierarchical Tensor Decomposition of Module Partition for the Mechanical Simulation. Applied Sciences, 13(4), 2684.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Zhang, T.<strong>, Ai, Y., Tian, K., Zhou, J., & Zhang, W. (2018). A fast temperature rise identification method based on an adaptive particle filter. The International Journal of Advanced Manufacturing Technology, 98, 1217-1235.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Zhang, Y., Liu, J., <strong>Zhang, T.<strong>, Kang, W., Liang, R., & Potter, B. G. (2022, July). Profile Extraction For Optical Lens Curing Process With Image-Based Regularized Tensor Decomposition. In Proceedings of the International Symposium on Flexible Automation 2022 International Symposium on Flexible Automation (pp. 158-164). The Institute of Systems, Control and Information Engineers.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Tian, K., <strong>Zhang, T.<strong>, Ai, Y., & Zhang, W. (2018). Induction motors dynamic eccentricity fault diagnosis based on the combined use of WPD and EMD-simulation study. Applied Sciences, 8(10), 1709.
 
+- Ai, Y., Ma, N., <strong>Zhang, T.<strong>, & Zhang, W. (2022). A new mean value of failure criteria updated compensation method based on heuristic MAP estimation for tensile damage diagnosis of high-strength aluminum alloy. Engineering Failure Analysis, 136, 105997.

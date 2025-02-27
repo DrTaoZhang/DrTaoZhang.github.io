@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- National Scholarship of Graduate Student, 2019.
 
-- First-prize Scholarship of CUMT, 2024.
+- First-prize Scholarship of China Scholarship Council, 2019.
 
-- First-prize Scholarship of CUMT, 2023.
+- Second-prize Scholarship of USTD, 2016.
 
-- Freshman Scholarship of CUMT, 2022.
+- National Encouragement Scholarship, 2014.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- First-prize Enterprise Scholarship of SUT, 2013.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- First-prize Scholarship of SUT, 2012.
